@@ -20,7 +20,7 @@ To use this project, simply open the Jupyter Notebook file and run the cells. Th
 ## Results
 From the analysis, I discovered that certain utilities such as swimming pool and CCTV had little or no effect on the prices of property. I also found out that Lekki phase 1 was the most expensive neighborhood while Yaba was the least expensive. Despite Lekki phase 1 being expensive, landlords in that area didn't have basic utilities such as swimming pool and CCTV. I recommend for landlords to decongest neighborhoods like Ajah as houses there are too much and move closer to Lekki phase 1 as it had fewer houses and lots of spaces for building. I also recommend landlords look into building more mansions as there was only one mansion in the whole of Lagos according to the data.
 
-# #Future Work
+## Future Work
 The major limitation of this project was that the dataset covered only a section of Lagos as many neighborhoods like Banana Island were not included. If in the future I find a more detailed dataset, I will not fail to update my project.
 
 ## Author
